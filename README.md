@@ -53,6 +53,7 @@ Specializing in automating R&D pipelines from <b>Fusion 360</b> geometry to <b>A
 </table>
 
 ---
+![Turbulence Map](./profile-3d-contrib/profile-night-view.svg)
 
 
 <p align="center">
