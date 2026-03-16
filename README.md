@@ -1,7 +1,7 @@
 #### Detemine the world through equations
 # Hi there, I'm Sagar a.k.a Kautilya_03 👋
 ### Computational Design & ML Engineer | SciML Researcher
-<image align="center" href="https://your-generated-link-from-step-2.png"> </image>
+![SciML Banner](assets/banner.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FF4F00?style=for-the-badge&logo=autodesk&logoColor=white" />
