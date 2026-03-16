@@ -1,6 +1,6 @@
-# Detemine the world through equations
-## Hi there, I'm Sagar a.k.a Kautilya_03 👋
-# Computational Design & ML Engineer | SciML Researcher
+#### Detemine the world through equations
+# Hi there, I'm Sagar a.k.a Kautilya_03 👋
+### Computational Design & ML Engineer | SciML Researcher
 <image align="center" href="https://your-generated-link-from-step-2.png"> </image>
 
 <p align="center">
