@@ -4,6 +4,28 @@
 #### Computational Design & ML Engineer | SciML Researcher 
 ##### Detemine the world through equations.
 
+<div align="center">
+
+### [REBOOT_SEQUENCE_ACTIVE]
+`∫ (Design) ∂(Logic) = Innovation`
+
+<samp>
+<b>Mechanical Engineer | Computationalist</b><br>
+Translating physical constraints into computational speed.<br>
+Specializing in automating R&D pipelines from <b>Fusion 360</b> geometry to <b>Ansys</b> validation,<br>accelerated by <b>Deep Learning</b> frameworks.
+</samp>
+
+---
+
+`SYSTEM_SPECIFICATIONS`
+> **Core:** Finite Element Analysis & Fluid Dynamics  
+> **Logic:** C++ Solvers & Python Automation  
+> **Intelligence:** NVIDIA Modulus & DeepXDE  
+
+*"I don't just train models; I discretize reality. Transforming PDEs into actionable insights through high-performance scientific computing."*
+
+---
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FF4F00?style=for-the-badge&logo=autodesk&logoColor=white" />
