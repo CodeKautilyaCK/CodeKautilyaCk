@@ -1,7 +1,8 @@
-img width="2816" height="596" alt="Image" src="https://github.com/user-attachments/assets/fab50fa9-5ab6-4d42-906a-301ec189cd39" /> <\image>
-#### Detemine the world through equations
-# Hi there, I'm Sagar a.k.a Kautilya_03 👋
-### Computational Design & ML Engineer | SciML Researcher
+img width="2816" height="596" alt="Image" src="https://github.com/user-attachments/assets/fab50fa9-5ab6-4d42-906a-301ec189cd39" />
+
+<p align="center"> Detemine the world through equations </p>
+<p fontsize="14"> Hi there, I'm Sagar a.k.a Kautilya_03 👋 </p>
+<p> Computational Design & ML Engineer | SciML Researcher </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FF4F00?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansys-FFB400?style=for-the-badge&logo=ansys&logoColor=black" />
