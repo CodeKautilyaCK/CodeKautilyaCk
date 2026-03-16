@@ -1,4 +1,4 @@
-img width="2816" height="596" alt="Image" src="https://github.com/user-attachments/assets/fab50fa9-5ab6-4d42-906a-301ec189cd39" />
+img width="2816" height="596" alt="Image" src="https://github.com/user-attachments/assets/fab50fa9-5ab6-4d42-906a-301ec189cd39"/>
 
 <p align="center"> Detemine the world through equations </p>
 <p fontsize="14"> Hi there, I'm Sagar a.k.a Kautilya_03 👋 </p>
