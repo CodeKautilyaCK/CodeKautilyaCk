@@ -1,8 +1,9 @@
-img width="2816" height="596" alt="Image" src="https://github.com/user-attachments/assets/fab50fa9-5ab6-4d42-906a-301ec189cd39"/>
+#### Detemine the world through equations.
+# Hi there, I'm Sagar a.k.a Kautilya_03 👋 
+#### Computational Design & ML Engineer | SciML Researcher 
 
-Detemine the world through equations.
-Hi there, I'm Sagar a.k.a Kautilya_03 👋 
-Computational Design & ML Engineer | SciML Researcher 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FF4F00?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansys-FFB400?style=for-the-badge&logo=ansys&logoColor=black" />
