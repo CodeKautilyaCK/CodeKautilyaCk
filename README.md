@@ -1,7 +1,7 @@
-# Detemine the world through equations
+<p align="center"># Detemine the world through equations
 ## Hi there, I'm Sagar a.k.a Kautilya_03 👋
-## Computational Design & ML Engineer | SciML Researcher
-
+# Computational Design & ML Engineer | SciML Researcher
+</p>
 ![SciML Banner](https://your-generated-link-from-step-2.png)
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 ### 🧪 Digital Engineering Lab
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">01. Geometric Design</h3>
